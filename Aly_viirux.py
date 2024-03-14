@@ -81,9 +81,9 @@ pwx =str(input("➣Enter pswrd : "))
 
 aclass()
 
-msg3=str(input("➣Enter post link : "))
+msg3=str(input("➣Enter hater name : "))
 
-msg4=str(input("➣Enter hater name : ")
+msg4=str(input("➣Enter post link : ")
 
 msg5=str(input("➣File link dal lanti : "))
 
